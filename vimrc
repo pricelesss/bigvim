@@ -2,6 +2,8 @@
 " Author:  ruanyl
 " Version: 1.1
 " ----------------------------------------------------------------------------
+ "set guifont=Letter Gothic Std:h14
+ set guifont=Courier\ New:h14
 
 set nocompatible
 
